@@ -11,7 +11,7 @@ a little program helps ro user type otp easily
 把增加的系統拉到要觸發的按鍵 -> 測試是否會自動輸入OTP
 
 # 參考設定流程影片
-製作中
+![OTP 柚子幫你打](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 # 常見問題 FAQ
 

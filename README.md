@@ -16,4 +16,23 @@ a little program helps ro user type otp easily
 # 常見問題 FAQ
 
 Q: 為什麼在一般記事本有效，但是RO OTP輸入視窗沒反應?
+
 A: 羅技巨集需要用管理員權限開啟，才能動作。
+
+# 感謝作者
+
+可以波利伺服器發mail 給 柚子 喔(ID就兩個字柚子)
+![image](https://github.com/qcawsome/ro-otp/blob/main/thanks.png?raw=true)
+
+希望可以收到轉蛋? 或是你不用的雪花裝備，有好多人物都還缺 XDD
+
+# More
+
+單純一個小程式，分享給大家，他就只是幫忙用key算出六碼OTP，輸入完就結束的一個小程式。
+不用再看那六碼OTP，按一個按鍵觸發就自動輸入好OTP，就是方便~
+
+如有安全疑慮還請自行考量。(有公開所有程式碼，可以自行編譯)
+
+
+
+
